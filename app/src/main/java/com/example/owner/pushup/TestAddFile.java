@@ -5,4 +5,5 @@ package com.example.owner.pushup;
  */
 
 public class TestAddFile {
+    int a=10;
 }
